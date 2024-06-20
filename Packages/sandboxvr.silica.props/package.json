@@ -1,0 +1,8 @@
+{
+  "name": "sandboxvr.silica.props",
+  "version": "0.0.1-rc.1",
+  "displayName": "Silica Props",
+  "description": "Unity SDK for Silica Props",
+  "unity": "2019.1",
+  "unityRelease": "0b5"
+}
